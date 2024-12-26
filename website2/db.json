@@ -1,0 +1,766 @@
+{
+    "products" : [
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/wardrobe-black-floral-printed-shirt-301000272?variant=44164137615413",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000272BLACK_1_800x.jpg?v=1733292998",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000272BLACK_2_800x.jpg?v=1733293237",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000272BLACK_3_800x.jpg?v=1733293016"
+        ],
+        "subTitle": "Wardrobe",
+        "title": "Wardrobe Black Floral Printed Shirt",
+        "price": "₹ 1,499.00"
+      },
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/wardrobe-black-abstract-printed-top-301000310?variant=44164134142005",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000310BLACK_1_800x.jpg?v=1733293183",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000310BLACK_2_800x.jpg?v=1733293153",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000310BLACK_3_800x.jpg?v=1733292937"
+        ],
+        "subTitle": "Wardrobe",
+        "title": "Wardrobe Black Abstract Printed Top",
+        "price": "₹ 1,299.00"
+      },
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/wardrobe-green-botanical-themed-ruched-top-300997825?variant=44143360147509",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300997825DEEPGREEN_1_800x.jpg?v=1732248060",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300997825DEEPGREEN_2_800x.jpg?v=1732248060",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300997825DEEPGREEN_3_800x.jpg?v=1732248060"
+        ],
+        "subTitle": "Wardrobe",
+        "title": "Wardrobe Green Botanical-Themed Ruched Top",
+        "price": "₹ 1,299.00"
+      },
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/lov-black-floral-patterned-top-301003005?variant=44166163660853",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003005BLACK_1_800x.jpg?v=1733393994",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003005BLACK_2_800x.jpg?v=1733394011",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003005BLACK_3_800x.jpg?v=1733394011"
+        ],
+        "subTitle": "LOV",
+        "title": "LOV Black Floral Patterned Top",
+        "price": "₹ 1,299.00"
+      },
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/lov-black-paisley-printed-peplum-top-301002640?variant=44166166511669",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301002640BLACK_1_800x.jpg?v=1733394074",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301002640BLACK_2_800x.jpg?v=1733394004",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301002640BLACK_3_800x.jpg?v=1733394078"
+        ],
+        "subTitle": "LOV",
+        "title": "LOV Black Paisley Printed Peplum Top",
+        "price": "₹ 1,499.00"
+      },
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/lov-black-ikat-printed-top-301003111?variant=44166180208693",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003111BLACK_1_800x.jpg?v=1733394037",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003111BLACK_2_800x.jpg?v=1733394052",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003111BLACK_3_800x.jpg?v=1733393963"
+        ],
+        "subTitle": "LOV",
+        "title": "LOV Black Ikat Printed Top",
+        "price": "₹ 1,299.00"
+      },
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/lov-teal-paisley-printed-shirt-300999836?variant=44145072668725",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300999836Teal_1_800x.jpg?v=1732282372",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300999836Teal_2_800x.jpg?v=1732282372",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300999836Teal_3_800x.jpg?v=1732282372"
+        ],
+        "subTitle": "LOV",
+        "title": "LOV Teal Paisley Printed Shirt",
+        "price": "₹ 1,299.00"
+      },
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/lov-teal-printed-blouse-with-camisole-300999837?variant=44143442755637",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300999837TEAL_1_800x.jpg?v=1732199397",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300999837TEAL_2_800x.jpg?v=1732199396",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300999837TEAL_3_800x.jpg?v=1732199396"
+        ],
+        "subTitle": "LOV",
+        "title": "LOV Teal Printed Blouse with Camisole",
+        "price": "₹ 1,499.00"
+      },
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/nuon-white-ribbed-off-shoulder-top-301002628?variant=44166161104949",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301002628WHITE_1_800x.jpg?v=1733393975",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301002628WHITE_2_800x.jpg?v=1733393978",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301002628WHITE_3_800x.jpg?v=1733394186"
+        ],
+        "subTitle": "Nuon",
+        "title": "Nuon White Ribbed Off-Shoulder Top",
+        "price": "₹ 599.00"
+      },
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/nuon-pink-ribbed-top-300992178?variant=44164129161269",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300992178PINK_1_800x.jpg?v=1733292955",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300992178PINK_2_800x.jpg?v=1733293144",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300992178PINK_3_800x.jpg?v=1733292937"
+        ],
+        "subTitle": "Nuon",
+        "title": "Nuon Pink Ribbed Top",
+        "price": "\u20b9 999.00"
+      },
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/nuon-white-faux-fur-pearl-embellished-sweater-300991252?variant=44166178013237",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300991252OFFWHITE_1_800x.jpg?v=1733394037",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300991252OFFWHITE_2_800x.jpg?v=1733393961",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300991252OFFWHITE_3_800x.jpg?v=1733394046"
+        ],
+        "subTitle": "Nuon",
+        "title": "Nuon White Faux-Fur Pearl Embellished Sweater",
+        "price": "\u20b9 1,499.00"
+      },
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/nuon-pink-knitted-sweater-300991240?variant=44089594839093",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300991240FUSHIAPINK_1_800x.jpg?v=1730197119",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300991240FUSHIAPINK_2_800x.jpg?v=1730197118",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300991240FUSHIAPINK_3_800x.jpg?v=1730197118"
+        ],
+        "subTitle": "Nuon",
+        "title": "Nuon Pink Knitted Sweater",
+        "price": "\u20b9 1,499.00"
+      },
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/nuon-off-white-cable-knitted-sweater-300992179?variant=44145130012725",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300992179WHITE_1_800x.jpg?v=1732288415",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300992179WHITE_2_800x.jpg?v=1732288415",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300992179WHITE_3_800x.jpg?v=1732288415"
+        ],
+        "subTitle": "Nuon",
+        "title": "Nuon Off-White Cable Knitted Sweater",
+        "price": "\u20b9 999.00"
+      },
+      {
+        "name": ["New"],
+        "href": "https://www.westside.com/products/nuon-black-ribbed-textured-crop-top-300992180?variant=44166177325109",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300992180BLACK_1_800x.jpg?v=1733393992",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300992180BLACK_2_800x.jpg?v=1733394231",
+          "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300992180BLACK_3_800x.jpg?v=1733393994"
+        ],
+        "subTitle": "Nuon",
+        "title": "Nuon Black Ribbed-Textured Crop Top",
+        "price": "\u20b9 999.00"
+      }
+      ],
+  
+  
+      "products1": [
+        {
+          "href": "https://www.westside.com/products/studiofit-off-white-striped-relaxed-fit-t-shirt-301000522?variant=44177408622645",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000522OFFWHITE_1_800x.jpg?v=1733980227",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000522OFFWHITE_2_800x.jpg?v=1733980227",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000522OFFWHITE_3_800x.jpg?v=1733980227"
+          ],
+          "name": "Studiofit",
+          "title": "Studiofit Off-White Striped Relaxed-Fit T-Shirt",
+          "price": "₹ 899.00"
+        },
+        {
+          "href": "https://www.westside.com/products/eta-olive-knit-textured-relaxed-fit-polo-t-shirt-300997851?variant=44177409146933",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300997851EMERALD_1_800x.jpg?v=1733980038",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300997851EMERALD_2_800x.jpg?v=1733980112",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300997851EMERALD_3_800x.jpg?v=1733980123"
+          ],
+          "name": "ETA",
+          "title": "ETA Olive Knit-Textured Relaxed-Fit Polo T-Shirt",
+          "price": "₹ 1,499.00"
+        },
+        {
+          "href": "https://www.westside.com/products/eta-dark-beige-textured-relaxed-fit-mid-rise-cotton-chinos-301003684?variant=44177409867829",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003684TAUPE_1_800x.jpg?v=1733980046",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003684TAUPE_2_800x.jpg?v=1733980131",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003684TAUPE_3_800x.jpg?v=1733980044"
+          ],
+          "name": "ETA",
+          "title": "ETA Dark Beige Textured Relaxed-Fit Mid-Rise Cotton Chinos",
+          "price": "₹ 1,499.00"
+        },
+        {
+          "href": "https://www.westside.com/products/studiofit-brown-striped-relaxed-fit-t-shirt-301000521?variant=44177410031669",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000521BROWN_1_800x.jpg?v=1733979956",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000521BROWN_2_800x.jpg?v=1733979953",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000521BROWN_3_800x.jpg?v=1733979953"
+          ],
+          "name": "Studiofit",
+          "title": "Studiofit Brown Striped Relaxed-Fit T-Shirt",
+          "price": "₹ 899.00"
+        },
+        {
+          "href": "https://www.westside.com/products/eta-black-knitted-relaxed-fit-shirt-300997088?variant=44177410949173",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300997088BLACK_1_800x.jpg?v=1733979945",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300997088BLACK_2_800x.jpg?v=1733979945",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300997088BLACK_3_800x.jpg?v=1733980029"
+          ],
+          "name": "ETA",
+          "title": "ETA Black Knitted Relaxed-Fit Shirt",
+          "price": "₹ 1,299.00"
+        },
+        {
+          "href": "https://www.westside.com/products/nuon-brown-text-printed-relaxed-fit-t-shirt-300991754?variant=44177415241781",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300991754BROWN_1_800x.jpg?v=1733979946",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300991754BROWN_2_800x.jpg?v=1733979952",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300991754BROWN_3_800x.jpg?v=1733980020"
+          ],
+          "name": "Nuon",
+          "title": "Nuon Brown Text Printed Relaxed-Fit T-Shirt",
+          "price": "₹ 899.00"
+        },
+        {
+          "href": "https://www.westside.com/products/nuon-off-white-ribbed-textured-relaxed-fit-sweater-300993896?variant=44177416093749",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300993896OFFWHITE_1_800x.jpg?v=1733980006",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300993896OFFWHITE_2_800x.jpg?v=1733980013",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300993896OFFWHITE_3_800x.jpg?v=1733980022"
+          ],
+          "name": "Nuon",
+          "title": "Nuon Off-White Ribbed-Textured Relaxed-Fit Sweater",
+          "price": "₹ 1,699.00"
+        },
+        {
+          "href": "https://www.westside.com/products/ascot-navy-stripe-printed-relaxed-fit-blended-linen-shirt-301001790?variant=44177417928757",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001790NAVY_1_800x.jpg?v=1733980175",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001790NAVY_2_800x.jpg?v=1733980175",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001790NAVY_3_800x.jpg?v=1733980175"
+          ],
+          "name": "Ascot",
+          "title": "Ascot Navy Stripe Printed Relaxed-Fit Blended Linen Shirt",
+          "price": "₹ 1,499.00"
+        },
+        {
+          "href": "https://www.westside.com/products/studiofit-mint-text-design-relaxed-fit-sweatshirt-301000530?variant=44178148589621",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000530MINT_1_800x.jpg?v=1734007892",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000530MINT_2_800x.jpg?v=1734007893",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000530MINT_3_800x.jpg?v=1734007907"
+          ],
+          "name": "Studiofit Men",
+          "title": "Studiofit Mint Text Design Relaxed-Fit Sweatshirt",
+          "price": "₹ 1,499.00"
+        },
+        {
+          "href": "https://www.westside.com/products/nuon-orange-striped-relaxed-fit-shirt-301003699?variant=44178149867573",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003699BURNTORANGE_1_800x.jpg?v=1734007755",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003699BURNTORANGE_2_800x.jpg?v=1734007757",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003699BURNTORANGE_3_800x.jpg?v=1734007755"
+          ],
+          "name": "Nuon Men",
+          "title": "Nuon Orange Striped Relaxed-Fit Shirt",
+          "price": "₹ 999.00"
+        },
+        {
+          "href": "https://www.westside.com/products/studiofit-pink-text-design-relaxed-fit-sweatshirt-301000530?variant=44178149310517",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000530PINK_1_800x.jpg?v=1734007877",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000530PINK_2_800x.jpg?v=1734007877",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301000530PINK_3_800x.jpg?v=1734007878"
+          ],
+          "name": "Studiofit Men",
+          "title": "Studiofit Pink Text Design Relaxed-Fit Sweatshirt",
+          "price": "₹ 1,499.00"
+        },
+        {
+          "href": "https://www.westside.com/products/nuon-dark-blue-washed-slim-fit-mid-rise-jeans-301004923?variant=44178150391861",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004923DARKBLUE_1_800x.jpg?v=1734007818",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004923DARKBLUE_2_800x.jpg?v=1734007885",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004923DARKBLUE_3_800x.jpg?v=1734007827"
+          ],
+          "name": "Nuon Men",
+          "title": "Nuon Dark Blue Washed Slim - Fit Mid - Rise Jeans",
+          "price": "₹ 1,499.00"
+        },
+        {
+          "href": "https://www.westside.com/products/nuon-blue-distressed-relaxed-fit-mid-rise-jeans-301004925?variant=44178150555701",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004925MIDBLUE_1_800x.jpg?v=1734007875",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004925MIDBLUE_2_800x.jpg?v=1734007954",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004925MIDBLUE_3_800x.jpg?v=1734007877"
+          ],
+          "name": "Nuon Men",
+          "title": "Nuon Blue Distressed Relaxed - Fit Mid - Rise Jeans",
+          "price": "₹ 1,499.00"
+        },
+        {
+          "href": "https://www.westside.com/products/nuon-lime-self-textured-relaxed-fit-cotton-shirt-300996695?variant=44178151669813",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300996695OLIVE_1_800x.jpg?v=1734007875",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300996695OLIVE_2_800x.jpg?v=1734007876",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300996695OLIVE_3_800x.jpg?v=1734007877"
+          ],
+          "name": "Nuon Men",
+          "title": "Nuon Lime Self-Textured Relaxed-Fit Cotton Shirt",
+          "price": "₹ 1,299.00"
+        },
+        {
+          "href": "https://www.westside.com/products/eta-beige-self-textured-relaxed-fit-mid-rise-cotton-chinos-301003684?variant=44178153275445",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003684NATURAL_1_800x.jpg?v=1734007826",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003684NATURAL_2_800x.jpg?v=1734007891",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003684NATURAL_3_800x.jpg?v=1734007816"
+          ],
+          "name": "ETA",
+          "title": "ETA Beige Self-Textured Relaxed-Fit Mid-Rise Cotton Chinos",
+          "price": "₹ 1,499.00"
+        },
+        {
+          "href": "https://www.westside.com/products/nuon-light-blue-distressed-relaxed-fit-mid-rise-jeans-301004924?variant=44178155110453",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004924LIGHTBLUE_1_800x.jpg?v=1734007815",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004924LIGHTBLUE_2_800x.jpg?v=1734007825",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004924LIGHTBLUE_3_800x.jpg?v=1734007830"
+          ],
+          "name": "Nuon Men",
+          "title": "Nuon Light Blue Distressed Relaxed - Fit Mid - Rise Jeans",
+          "price": "₹ 1,499.00"
+        },
+        {
+          "href": "https://www.westside.com/products/studiofit-black-ribbed-relaxed-fit-mid-rise-track-pants-300988551?variant=44178156912693",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300988551BLACK_1_800x.jpg?v=1734007815",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300988551BLACK_2_800x.jpg?v=1734007817",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300988551BLACK_3_800x.jpg?v=1734007817"
+          ],
+          "name": "Studiofit Men",
+          "title": "Studiofit Black Ribbed Relaxed-Fit Mid-Rise Track Pants",
+          "price": "₹ 1,299.00"
+        }
+      ],
+
+      "products2": [
+        {
+          "href": "https://www.westside.com/products/vark-black-embroidered-stitched-blouse-300990841?variant=44046369816629",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300990841BLACK_1_800x.jpg?v=1728571467",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300990841BLACK_2_800x.jpg?v=1728571468",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300990841BLACK_3_800x.jpg?v=1728571467"
+          ],
+          "title": "Vark Black Embroidered Stitched Blouse",
+          "price": "\u20b9 1,299.00",
+          "name": []
+        },
+        {
+          "href": "https://www.westside.com/products/vark-black-ruffle-detailed-readymade-saree-300995710?variant=44046368342069",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300995710BLACK_1_7bf535b1-de33-4274-8929-85eed63e95f9_800x.jpg?v=1730123588",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300995710BLACK_3_df2ba319-c870-4c8d-b8ac-537b177076fb_800x.jpg?v=1730123588",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300995710BLACK_2_ba4fe828-17a2-4996-a781-41716eb1fa42_800x.jpg?v=1730123588"
+          ],
+          "title": "Vark Black Ruffle-Detailed Readymade Saree",
+          "price": "\u20b9 2,999.00",
+          "name": []
+        },
+        {
+          "href": "https://www.westside.com/products/vark-dusty-pink-sequin-detailed-blouse-300998477?variant=44143364046901",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998477DUSTYPINK_1_800x.jpg?v=1732194852",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998477001_5_20copy_800x.jpg?v=1733402448",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998477DUSTYPINK_2_800x.jpg?v=1732194852"
+          ],
+          "title": "Vark Dusty Pink Sequin-Detailed Blouse",
+          "price": "\u20b9 999.00",
+          "name": ["New", "Gold"],
+          "related_product": "https://www.westside.com/cdn/shop/products/300998478Gold_5.jpg"
+        },
+        {
+          "href": "https://www.westside.com/products/vark-dusty-pink-plisse-textured-saree-300998924?variant=44143363063861",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998924DUSTYPINK_1_800x.jpg?v=1732194852",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998924001_5_20copy_800x.jpg?v=1733402449",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998924DUSTYPINK_2_800x.jpg?v=1732194853"
+          ],
+          "title": "Vark Dusty Pink Plisse-Textured Saree",
+          "price": "\u20b9 3,999.00",
+          "name": ["New", "Gold"],
+          "related_product": "https://www.westside.com/cdn/shop/products/300998923Gold_5.jpg"
+        },
+        {
+          "href": "https://www.westside.com/products/vark-gold-sequin-detailed-blouse-300998478?variant=44143360835637",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998478GOLD_1_800x.jpg?v=1732194852",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998478001_5_20copy_800x.jpg?v=1733402448",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998478GOLD_2_800x.jpg?v=1732194853"
+          ],
+          "title": "Vark Gold Sequin-Detailed Blouse",
+          "price": "\u20b9 999.00",
+          "name": ["New", "Dusty Pink"],
+          "related_product": "https://www.westside.com/cdn/shop/products/300998477DustyPink_5.jpg"
+        },
+        {
+          "href": "https://www.westside.com/products/vark-gold-plisse-textured-saree-300998923?variant=44143360049205",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998923GOLD_1_800x.jpg?v=1732194868",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998923001_5_20copy_800x.jpg?v=1733402417",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998923GOLD_2_800x.jpg?v=1732194853"
+          ],
+          "title": "Vark Gold Plisse-Textured Saree",
+          "price": "\u20b9 3,999.00",
+          "name": ["New", "Dusty Pink"],
+          "related_product": "https://www.westside.com/cdn/shop/products/300998924DustyPink_5.jpg"
+        },
+        {
+          "href": "https://www.westside.com/products/vark-red-embellished-top-300998888?variant=44155741306933",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998888RED_1_800x.jpg?v=1732806401",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998888RED_2_800x.jpg?v=1732806408",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998888RED_3_800x.jpg?v=1732806401"
+          ],
+          "title": "Vark Red Embellished Top",
+          "price": "\u20b9 999.00",
+          "name": ["New"]
+        },
+        {
+          "href": "https://www.westside.com/products/vark-pink-embellished-top-300998475?variant=44116646068277",
+          "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998475PINK_1_800x.jpg?v=1731055702",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998475PINK_2_800x.jpg?v=1731055716",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998475PINK_3_800x.jpg?v=1731055701"
+          ],
+          "name": ["New"],
+          "title": "Vark Pink Embellished Top",
+          "price": "₹ 999.00"
+      },
+      {
+          "href": "https://www.westside.com/products/vark-pink-floral-embroidered-halter-neck-top-300998989?variant=44128463061045",
+          "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998989PINK_1_800x.jpg?v=1731601625",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998989PINK_2_800x.jpg?v=1731601701",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998989PINK_3_800x.jpg?v=1731601637"
+          ],
+          "name": ["New"],
+          "title": "Vark Pink Floral Embroidered Halter Neck Top",
+          "price": "₹ 1,699.00"
+      },
+      {
+          "href": "https://www.westside.com/products/vark-pink-high-rise-palazzos-300998986?variant=44127318605877",
+          "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998986PINK_1_800x.jpg?v=1731565857",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998986PINK_2_800x.jpg?v=1731565856",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998986PINK_3_800x.jpg?v=1731565856"
+          ],
+          "name": ["New"],
+          "title": "Vark Pink High-Rise Palazzos",
+          "price": "₹ 1,699.00"
+      },
+      {
+          "href": "https://www.westside.com/products/vark-off-white-brocade-design-halter-neck-top-300998883?variant=44127311855669",
+          "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998883OFFWHITE_1_800x.jpg?v=1731565868",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998883001_5_20copy_800x.jpg?v=1733402448",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998883OFFWHITE_2_800x.jpg?v=1731565737"
+          ],
+          "title": "Vark Off-White Brocade Design Halter Neck Top",
+          "price": "₹ 1,299.00",
+          "name": ["New", "Pink"]
+      },
+      {
+          "href": "https://www.westside.com/products/vark-beige-embellished-halter-neck-top-300998988?variant=44127298781237",
+          "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998988BEIGE_1_800x.jpg?v=1731565796",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998988BEIGE_2_800x.jpg?v=1731565797",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998988BEIGE_3_800x.jpg?v=1731565796"
+          ],
+          "name": ["New"],
+          "title": "Vark Beige Embellished Halter Neck Top",
+          "price": "₹ 1,699.00"
+      },
+      {
+          "href": "https://www.westside.com/products/vark-off-white-high-rise-palazzos-300998985?variant=44127307300917",
+          "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998985OFFWHITE_1_800x.jpg?v=1731565736",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998985OFFWHITE_2_800x.jpg?v=1731565736",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998985OFFWHITE_3_800x.jpg?v=1731565736"
+          ],
+          "name": ["New"],
+          "title": "Vark Off-White High-Rise Palazzos",
+          "price": "₹ 1,699.00"
+      },
+      {
+          "href": "https://www.westside.com/products/vark-beige-embellished-wrap-style-top-300998476?variant=44116651442229",
+          "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998476BEIGE_1_800x.jpg?v=1731055700",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998476BEIGE_2_800x.jpg?v=1731055715",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300998476BEIGE_3_800x.jpg?v=1731055701"
+          ],
+          "name": ["New"],
+          "title": "Vark Beige Embellished Wrap-Style Top",
+          "price": "₹ 999.00"
+      },
+      {
+          "href": "https://www.westside.com/products/vark-off-white-brocade-design-a-line-skirt-300992578?variant=44064044711989",
+          "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300992578OFF-WHITE_1_800x.jpg?v=1730123364",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300992578OFF-WHITE_3_800x.jpg?v=1730123364",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300992578OFF-WHITE_2_800x.jpg?v=1730123365"
+          ],
+          "name": ["New"],
+          "title": "Vark Off-White Brocade Design A-Line Skirt",
+          "price": "₹ 3,299.00"
+      }
+      ],
+
+      "products3": [
+        {
+          "href": "https://www.westside.com/products/y-f-kids-pink-text-print-sweatshirt-301005792?variant=44177406165045",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301005792PINK_1_800x.jpg?v=1733979888",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301005792PINK_2_800x.jpg?v=1733979885",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301005792PINK_3_800x.jpg?v=1733979885"
+          ],
+          "name": "Y&F",
+          "title": "Y&F Kids Pink Text Print Sweatshirt",
+          "price": "₹ 699.00"
+        },
+        {
+          "href": "https://www.westside.com/products/y-f-kids-blue-wide-leg-fit-high-rise-jeans-301003828?variant=44177407967285",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003828MIDWASH_1_800x.jpg?v=1733980011",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003828MIDWASH_2_800x.jpg?v=1733980029",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003828MIDWASH_3_800x.jpg?v=1733980097"
+          ],
+          "name": "Y&F",
+          "title": "Y&F Kids Blue Wide Leg - Fit High - Rise Jeans",
+          "price": "₹ 899.00"
+        },
+        {
+          "href": "https://www.westside.com/products/y-f-kids-beige-text-print-sweatshirt-301005793?variant=44177414357045",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301005793STONE_1_800x.jpg?v=1733979884",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301005793STONE_2_800x.jpg?v=1733979884",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301005793STONE_3_800x.jpg?v=1733980135"
+          ],
+          "name": "Y&F",
+          "title": "Y&F Kids Beige Text Print Sweatshirt",
+          "price": "₹ 699.00"
+        },  {
+          "href": "https://www.westside.com/products/y-f-kids-pink-text-print-sweatshirt-301005792?variant=44177406165045",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301005792PINK_1_800x.jpg?v=1733979888",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301005792PINK_2_800x.jpg?v=1733979885",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301005792PINK_3_800x.jpg?v=1733979885"
+          ],
+          "name": "Y&F",
+          "title": "Y&F Kids Pink Text Print Sweatshirt",
+          "price": "₹ 699.00"
+        },
+        {
+          "href": "https://www.westside.com/products/y-f-kids-blue-wide-leg-fit-high-rise-jeans-301003828?variant=44177407967285",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003828MIDWASH_1_800x.jpg?v=1733980011",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003828MIDWASH_2_800x.jpg?v=1733980029",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003828MIDWASH_3_800x.jpg?v=1733980097"
+          ],
+          "name": "Y&F",
+          "title": "Y&F Kids Blue Wide Leg - Fit High - Rise Jeans",
+          "price": "₹ 899.00"
+        },
+        {
+          "href": "https://www.westside.com/products/y-f-kids-beige-text-print-sweatshirt-301005793?variant=44177414357045",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301005793STONE_1_800x.jpg?v=1733979884",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301005793STONE_2_800x.jpg?v=1733979884",
+            "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301005793STONE_3_800x.jpg?v=1733980135"
+          ],
+          "name": "Y&F",
+          "title": "Y&F Kids Beige Text Print Sweatshirt",
+          "price": "₹ 699.00"
+        },         
+  {
+    "href": "https://www.westside.com/products/hop-kids-white-bow-design-fit-and-flare-dress-301002664?variant=44179704447029",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301002664OFFWHITE_1_800x.jpg?v=1734092168",
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301002664OFFWHITE_2_800x.jpg?v=1734092168",
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301002664OFFWHITE_3_800x.jpg?v=1734092239"
+    ],
+    "name": "HOP",
+    "title": "HOP Kids White Bow Design Fit-and-Flare Dress",
+    "price": "₹ 699.00"
+  },
+  {
+    "href": "https://www.westside.com/products/hop-kids-light-gold-sequined-faux-fur-party-dress-301001762?variant=44179704840245",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001762CHAMPAGNEGOLD_1_800x.jpg?v=1734092169",
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001762CHAMPAGNEGOLD_2_800x.jpg?v=1734092177",
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001762CHAMPAGNEGOLD_3_800x.jpg?v=1734092375"
+    ],
+    "name": "HOP",
+    "title": "HOP Kids Light Gold Sequined Faux-Fur Party Dress",
+    "price": "₹ 899.00"
+  },
+  {
+    "href": "https://www.westside.com/products/hop-kids-beige-bow-design-mesh-a-line-dress-300980564?variant=44179704741941",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300980564BEIGE_1_800x.jpg?v=1734092170",
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300980564BEIGE_2_800x.jpg?v=1734092173",
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300980564BEIGE_3_800x.jpg?v=1734092368"
+    ],
+    "name": "HOP",
+    "title": "HOP Kids Beige Bow Design Mesh A-Line Dress",
+    "price": "₹ 1,299.00"
+  },
+  {
+    "href": "https://www.westside.com/products/utsa-kids-navy-floral-embroidered-cotton-blend-top-2-8-years-301001799?variant=44179886342197",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001799INDIGO_1_800x.jpg?v=1734103661",
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001799INDIGO_2_800x.jpg?v=1734103661",
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001799INDIGO_3_800x.jpg?v=1734103661"
+    ],
+    "name": "Utsa Kids",
+    "title": "Utsa Kids Navy Floral Embroidered Cotton Blend Top (2-8 years)",
+    "price": "₹ 599.00"
+  },
+  {
+    "href": "https://www.westside.com/products/utsa-kids-blue-floral-printed-cotton-blend-top-2-8-years-301004630?variant=44179886211125",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004630BLUE_1_800x.jpg?v=1734103730",
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004630BLUE_2_800x.jpg?v=1734103730",
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004630BLUE_3_800x.jpg?v=1734103730"
+    ],
+    "name": "Utsa Kids",
+    "title": "Utsa Kids Blue Floral Printed Cotton Blend Top (2-8 years)",
+    "price": "₹ 599.00"
+  },
+  {
+    "href": "https://www.westside.com/products/hop-kids-light-pink-pouch-detailed-sweatshirt-301001761?variant=44151730241589",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001761LTPINK_1_800x.jpg?v=1732701900",
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001761LTPINK_2_800x.jpg?v=1732701901",
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001761LTPINK_3_800x.jpg?v=1732701901"
+    ],
+    "name": "HOP",
+    "title": "HOP Kids Light Pink Pouch Detailed Sweatshirt",
+    "price": "₹ 499.00"
+  }
+        ],
+
+
+
+        "products4": [
+         
+          {
+            "href": "https://www.westside.com/products/westside-home-off-white-bread-container-box-301001063001?variant=44179650707509",
+            "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001063001_2_800x.jpg?v=1734106207",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001063001_3_800x.jpg?v=1734106207",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001063001_4_800x.jpg?v=1734106207"
+            ],
+            "title": "Westside Home Off-White Bread Container Box",
+            "price": "₹ 699.00"
+          },
+          {
+            "href": "https://www.westside.com/products/westside-home-off-white-chai-kettle-301001065001?variant=44179650674741",
+            "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001065001_2_800x.jpg?v=1734106293",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001065001_3_800x.jpg?v=1734106293",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001065001_4_800x.jpg?v=1734106293"
+            ],
+            "title": "Westside Home Off-White Chai Kettle",
+            "price": "₹ 899.00"
+          },
+          {
+            "href": "https://www.westside.com/products/westside-home-off-white-butter-dish-301001064001?variant=44179650805813",
+            "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001064001_2_798a1ddd-ee09-4946-9c67-a76a3b24a2dd_800x.jpg?v=1734106266",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001064001_3_673db4da-0dba-4dbb-9e09-62edff186fdb_800x.jpg?v=1734106266",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001064001_4_9bb983d8-6f40-4221-92ae-c9ee058a9dc0_800x.jpg?v=1734106266"
+            ],
+            "title": "Westside Home Off-White Butter Dish",
+            "price": "₹ 699.00"
+          },
+          {
+            "href": "https://www.westside.com/products/westside-home-off-white-wired-vegetable-storage-container-301001053001?variant=44179650871349",
+            "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001053001_3_800x.jpg?v=1734106174",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001053001_2_2_800x.jpg?v=1734106178",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001053001_4_800x.jpg?v=1734106178"
+            ],
+            "title": "Westside Home Off-White Wired Vegetable Storage Container",
+            "price": "₹ 999.00"
+          },
+          {
+            "href": "https://www.westside.com/products/westside-home-green-leaf-printed-lunch-bag-301004721001?variant=44179650838581",
+            "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004721001_1_2_800x.jpg?v=1734112934",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004721001_2_2_800x.jpg?v=1734112934",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301004721001_3_1_800x.jpg?v=1734112934"
+            ],
+            "title": "Westside Home Green Leaf Printed Lunch Bag",
+            "price": "₹ 599.00"
+          },
+          {
+            "href": "https://www.westside.com/products/westside-home-ivory-leaf-printed-snacks-jar-301001079001?variant=44179651002421",
+            "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001079001_2_2_800x.jpg?v=1734106956",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001079001_3_2_800x.jpg?v=1734106956",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001079001_4_800x.jpg?v=1734106956"
+            ],
+            "title": "Westside Home Ivory Leaf Printed Snacks Jar",
+            "price": "₹ 499.00"
+          },
+          {
+            "href": "https://www.westside.com/products/westside-home-off-white-sugar-canister-301001067001?variant=44179651035189",
+            "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001067001_2_800x.jpg?v=1734106435",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001067001_3_800x.jpg?v=1734106436",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001067001_4_800x.jpg?v=1734106436"
+            ],
+            "title": "Westside Home Off-White Sugar Canister",
+            "price": "₹ 399.00"
+          },
+          {
+            "href": "https://www.westside.com/products/westside-home-light-brown-leaf-design-tea-box-301002685001?variant=44179651100725",
+            "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301002685001_3_800x.jpg?v=1734107133",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301002685001_2_2_800x.jpg?v=1734107133",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301002685001_4_800x.jpg?v=1734107133"
+            ],
+            "title": "Westside Home Light Brown Leaf Design Tea Box",
+            "price": "₹ 799.00"
+          },
+          {
+            "href": "https://www.westside.com/products/westside-home-ivory-leaf-printed-masala-box-301001078001?variant=44179651166261",
+            "images": [
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001078001_3_800x.jpg?v=1734106925",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001078001_2_2_800x.jpg?v=1734106925",
+              "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301001078001_4_800x.jpg?v=1734106925"
+            ],
+            "title": "Westside Home Ivory Leaf Printed Masala Box",
+            "price": "₹ 1,299.00"
+          }
+    ]          
+    }
+    
